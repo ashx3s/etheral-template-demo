@@ -1,6 +1,8 @@
 # Etheral Site README
 
-Developer: Ashlyn Knox
+Ashlyn Knox
+SAIT Web Develoment Program
+CPNT-201 A1
 Website: [Link to Site](https://lilyx13.github.io/etheral-template-demo/)
 
 ## Source Info
